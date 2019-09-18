@@ -1,11 +1,5 @@
-
-// JS - ./js/index.js
+// JS
 import './js/'
-// SCSS
-import './scss/main.sass'
-// CSS (example)
-import './css/main.css'
 
-// Bootstrap (example)
-// import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css'
-// import 'bootstrap/dist/css/bootstrap.min.css'
+// SCSS
+import './assets/scss/main.scss'
